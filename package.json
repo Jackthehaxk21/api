@@ -1,0 +1,38 @@
+{
+  "name": "MK-Bot",
+  "version": "1.2.1",
+  "description": "MK is a customized and fully created by Jackthehack21 to help with McK-Studio games discord !",
+  "main": "node bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackthehaxk21/discord-bot-1.0.git"
+  },
+  "author": "Jackthehack21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jackthehaxk21/discord-bot-1.0/issues"
+  },
+  "homepage": "https://github.com/Jackthehaxk21/discord-bot-1.0",
+  "dependencies": {
+    "bufferutil": "^3.0.2",
+    "canvas": "github:Automattic/node-canvas",
+    "canvas-constructor": "github:kyranet/canvasConstructor",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "express": "^4.15.5",
+    "idiotic-api": "^0.0.4",
+    "libsodium-wrappers": "^0.5.4",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^1.3.0",
+    "ms": "^2.1.1",
+    "node": "^9.3.0",
+    "node-opus": "^0.2.7",
+    "cheerio": "^0.22.0"
+  }
+}
